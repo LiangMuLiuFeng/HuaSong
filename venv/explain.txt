@@ -1,0 +1,29 @@
+<Explain.txt>
+
+[Purpose]
+
+- What's this folder to do ?
+
+- To help the other language user find the program enviroment .
+
+[Including]
+
+- R                 >>> R
+- gcc               >>> C
+- g++               >>> C++
+- jdk               >>> Java
+- go                >>> Go
+- node              >>> Node.js
+- Python 3.7.0      >>> Python
+- PyCharm           >>> Python
+- Dev.C++           >>> C & C++ 
+- Sublime Text      >>> All
+- Editplus          >>> All
+- VScode            >>> All
+- Anaconda 3        >>> All
+
+[Notice]
+
+- The files are only supported for windows .
+
+- If you're the others , I'm sorry to that.
